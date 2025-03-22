@@ -12,6 +12,7 @@ The program runs in a loop until the user presses Enter without typing anything 
 
 # Installation
 git clone https://github.com/MayThandar911997/OldPhonePadWithUnitTesting.git
+
 cd old-phone-keypad-decoder
 
 # Compile and Run
